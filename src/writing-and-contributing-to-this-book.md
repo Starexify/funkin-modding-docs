@@ -1,7 +1,7 @@
 # Writing And Contributing to This Book
 This book is written in Markdown format, and uses [mdbook](https://rust-lang.github.io/mdBook/) for generation.
 
-The source files from which this book is generated can be found on [GitHub](https://github.com/FunkinCrew/funkin-modding-docs).
+The source files from which this book is generated can be found on [GitHub](https://github.com/Starexify/funkin-modding-docs).
 
 ## Things to Consider
 
