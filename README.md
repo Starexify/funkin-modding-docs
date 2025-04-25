@@ -1,10 +1,10 @@
 # Funkin' Modding Docs
 
-## [READ THE DOCS HERE](https://funkincrew.github.io/funkin-modding-docs/)
+## [READ THE DOCS HERE](https://starexify.github.io/funkin-modding-docs/)
 
 ## Contributions
 
-The Funkin' Modding Docs repository is accepting contributions via [Github](https://github.com/FunkinCrew/funkin-modding-docs/pulls).
+The Funkin' Modding Docs repository is accepting contributions via [Github](https://github.com/Starexify/funkin-modding-docs/pulls).
 
 ## License
 
